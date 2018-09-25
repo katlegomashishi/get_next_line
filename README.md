@@ -1,6 +1,6 @@
 # Get_Next_Line
 
-The aim of this project was to code  function that returns a line
+The aim of this project was to create a  function that returns a line
 
 ending with a newline, read from a file descriptor.
 
